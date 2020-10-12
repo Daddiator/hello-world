@@ -1,15 +1,22 @@
 # hello-world
 Hello world repository 
     
-    Joseph Thomas: QOU469
+        Joseph Thomas: QOU469
    
-   I was born in a tiny super-cluster of galaxies, within the 3rd largest galaxy,
-    locally referred to as Milky-Way galaxy,  within which I live in on the 3rd planet, 
-    orbiting a mid-sized star, known locally to as "The Sun".  If you happen to visit this planet, 
-    which many of it in habitant call Earth, Do try Moon Pies, If like a sweet treats. 
-    They're originally an Earth snack food, so despite the name you're not likely to find on 
-    Moon.  "The Moon"is the name given to the only naturally-occurring satelite orbitting the planet Earth.
-    Not be confused with "Moon Tacos",  of which, I have no first hand experience.  
+        Deep within a tiny, nested, super-cluster of galaxies, in its 451st largest galactic subset-cluster,
+        in its 6th largest member galaxy, known as the Milky-Way, which contains at least 100 billion 
+        star systems, there is a mid-sized star, known as "The Sun", and in its 
+        3rd planetary orbit, is my home planet ("Earth").  You are unlikely to find me here, because even I 
+        don't really know where I am.
+        
+        However, if by some miracle you do reach Earth, I have one recomendation: Gather as many 
+        "Moon Pies" as you can.  You'll need to do research on how to safely obtain Moon
+        Pies, by the ton. Note: Moon Pies should NOT be confused with "Moon Tacos". Moon Pies are originally an 
+        Earth snack food. So despite the name, you're not likely to find them on 
+        the Moon.* 
+        
+        * The Moon" is a naturally-occurring satelite, orbitting the planet Earth.
+          
     
     
     
