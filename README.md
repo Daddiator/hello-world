@@ -17,8 +17,11 @@ Hello world repository
         
         * The Moon" is a naturally-occurring satelite, orbitting the planet Earth.
           
-    
-    
+        Unlike Moon Pies, Moon Tacos are not known to be found on the planet Earth.  
+        They are instead reportedly found exclusively on the Moon.  I'm not a much of a taco eater. Furthermore, Moon travel is 
+        quite expensive these days and beyond my budget. So I have not yet personally had the "Moon Taco" experience.
+        The information regarding the availability,  and gastronomic superiority of Moon Tacos, 
+        was provided by a very reliable source. 
     
     
     
